@@ -1,0 +1,27 @@
+/* Write your code here. */
+.bg-container {
+  background: linear-gradient(to right, #1d976c, #93f9b9);
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: white;
+}
+.totalCount {
+  background-color: #ffffff;
+  margin-top: 20px;
+  padding: 10px;
+  height: 45px;
+  width: 200px;
+  border-radius: 10px;
+  text-align: center;
+  color: #219a6f;
+}
+input {
+  width: 80%;
+  background: transparent;
+  border: 1px solid white;
+  height: 30px;
+  border-radius: 5px;
+  outline: none;
+}
